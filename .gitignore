@@ -177,3 +177,11 @@ wandb/
 swanlog/
 generated_predictions.jsonl
 predictions_score.json
+
+commands.md
+inference.sh
+raw_hf_sft.py
+agthoughts_dnld.py
+agthoughts.json
+.history
+sbatch-logs

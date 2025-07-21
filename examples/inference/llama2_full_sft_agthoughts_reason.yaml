@@ -1,0 +1,4 @@
+model_name_or_path: saves/qwen2.5-8b_agthoughts/full/sft
+template: qwen
+infer_backend: huggingface  # choices: [huggingface, vllm, sglang]
+trust_remote_code: true

@@ -714,5 +714,19 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+  "agthoughts_no_reason": {
+    "hf_hub_url": "BGLab/AgThoughts",
+    "columns":{
+      "prompt": "Question",
+      "response": "Answer"
+    }
+  },
+  "agthoughts": {
+    "file_name": "agthoughts.json",
+    "columns":{
+      "prompt": "instruction",
+      "response": "output"
+    }
   }
 }
