@@ -10,7 +10,7 @@ deepspeed: examples/deepspeed/ds_z3_config.json
 
 ### dataset
 dataset: agthoughts
-template: mistral_small
+template: mistral
 cutoff_len: 4096
 overwrite_cache: true
 preprocessing_num_workers: 16
