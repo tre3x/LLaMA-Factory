@@ -1,5 +1,5 @@
 ### model
-model_name_or_path: nvidia/Mistral-NeMo-12B-Instruct
+model_name_or_path: mistralai/Mistral-Nemo-Instruct-2407
 trust_remote_code: true
 
 ### method
