@@ -1,0 +1,6 @@
+model_name_or_path: chegde/AgThinker-14B-final
+template: phi
+infer_backend: huggingface  # choices: [huggingface, vllm, sglang]
+trust_remote_code: false
+hf_hub_token: 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
+max_new_tokens: 8096 

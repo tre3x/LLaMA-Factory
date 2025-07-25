@@ -1,0 +1,5 @@
+model_name_or_path: microsoft/Phi-3-medium-128k-instruct
+template: phi
+infer_backend: huggingface  # choices: [huggingface, vllm, sglang]
+trust_remote_code: false
+hf_hub_token: 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
