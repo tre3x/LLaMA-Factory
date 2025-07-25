@@ -2,5 +2,5 @@ model_name_or_path: saves/phi3-3b-agthoughts/full/sft/checkpoint-6500
 template: phi
 infer_backend: huggingface  # choices: [huggingface, vllm, sglang]
 trust_remote_code: false
-hf_hub_token: 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
+hf_hub_token: 
 max_new_tokens: 12000 
