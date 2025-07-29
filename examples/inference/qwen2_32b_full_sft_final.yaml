@@ -1,0 +1,6 @@
+model_name_or_path: chegde/AgThinker-32B-final
+template: qwen
+infer_backend: huggingface  # choices: [huggingface, vllm, sglang]
+trust_remote_code: true
+hf_hub_token: 
+max_new_tokens: 8096

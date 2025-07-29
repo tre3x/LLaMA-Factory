@@ -185,3 +185,4 @@ agthoughts_dnld.py
 agthoughts.json
 .history
 sbatch-logs
+agthoughts_filter_v1.json
