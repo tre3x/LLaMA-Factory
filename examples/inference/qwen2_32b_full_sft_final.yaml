@@ -1,4 +1,4 @@
-model_name_or_path: chegde/AgThinker-32B-final
+model_name_or_path: chegde/AgThinker-32B
 template: qwen
 infer_backend: huggingface  # choices: [huggingface, vllm, sglang]
 trust_remote_code: true

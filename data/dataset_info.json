@@ -728,5 +728,12 @@
       "prompt": "instruction",
       "response": "output"
     }
+  },
+  "agthoughts_filter": {
+    "file_name": "agthoughts_filter_v1.json",
+    "columns":{
+      "prompt": "instruction",
+      "response": "output"
+    }
   }
 }
